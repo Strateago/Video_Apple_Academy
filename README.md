@@ -1,7 +1,12 @@
 # Códigos usados no vídeo de 1 minuto da incrição da apple developer academy:
-Parte de SQL não inclusa. 
-
-Código base do executável: App_Ac.py 
-
-Código c dos créditos: Thi.c 
-
+<div>
+  <p align="left">
+    Parte de SQL não inclusa.
+  </p>
+  <p align="left">
+    Código base do executável: App_Ac.py
+  </p>
+  <p align="left">
+    Código c dos créditos: Thi.c
+  </p>
+</div>
